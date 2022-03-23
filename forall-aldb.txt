@@ -1,0 +1,4 @@
+name: bimbo;
+// please.
+select * msft(project)().
+https://raw.githubusercontent.com/microsoft/repo-templates/main/shared/CODE_OF_CONDUCT.md
